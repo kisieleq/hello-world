@@ -1,2 +1,4 @@
 # hello-world
-first steps
+=====================
+Hello everyone.
+This is my first steps in GitHub
